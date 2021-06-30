@@ -12,3 +12,10 @@ background-color: blanchedalmond;
     width: 400px;
     height: auto;
 }
+.everything{
+    float:left;
+    
+}
+body{
+    background-color: coral;
+}
